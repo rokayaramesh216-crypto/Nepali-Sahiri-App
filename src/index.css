@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Mukta', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #f8fafc;
+    color: #1e293b;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+.font-nepali {
+  font-family: 'Mukta', sans-serif;
+}
+
+.font-nepali-title {
+  font-family: 'Rozha One', 'Mukta', serif;
+}
+
+.font-nepali-alt {
+  font-family: 'Yantramanav', sans-serif;
+}
+
+/* Custom scrollbars for clean mobile feel */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(153, 27, 27, 0.2);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(153, 27, 27, 0.4);
+}

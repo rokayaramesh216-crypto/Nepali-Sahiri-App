@@ -1,0 +1,148 @@
+[
+  {
+    "id": "comm-1793272826497-19yre",
+    "title": "सपनाको देश",
+    "content": "रातभरि देखिने सपना बिहानीले मेटाउँछ,\nतर मनमा कोरिएको माया युगौँ युग सम्म रहन्छ।\nमुस्कान तिम्रो अमृत समान लाग्यो मलाई,\nसम्झनाले मात्रै पनि जीवन सजाउँछ।",
+    "author": "कवि दीपशिखा (Device A)",
+    "category": "muktak",
+    "type": "muktak",
+    "language": "nepali",
+    "createdAt": "2026-10-29T11:20:26.497Z",
+    "likesCount": 1,
+    "copiedCount": 0,
+    "sharesCount": 0,
+    "reportsCount": 3,
+    "status": "under_review",
+    "isCommunityPost": true,
+    "clientAuthorId": "device-user-a-001",
+    "tags": []
+  },
+  {
+    "id": "comm-post-101",
+    "title": "मनको आँगन",
+    "content": "नबोली नबोली कति कुरा बुझाइदिन्छौ तिमी,\nआँखाको भाकामा सारा संसार अटाउँछौ तिमी।\nसोध्नेहरूलाई के जवाफ दिऊँ म यहाँ,\nमेरो हरेक श्वासको कारण बनिदिन्छौ तिमी।",
+    "author": "अनामिका 'निर्मल'",
+    "category": "love",
+    "type": "shayari",
+    "language": "nepali",
+    "createdAt": "2026-10-25T14:20:00.000Z",
+    "likesCount": 42,
+    "copiedCount": 18,
+    "sharesCount": 11,
+    "reportsCount": 0,
+    "status": "published",
+    "isCommunityPost": true,
+    "tags": [
+      "माया",
+      "प्रेम",
+      "नेपालीशायरी"
+    ]
+  },
+  {
+    "id": "comm-post-102",
+    "title": "समयको वेग",
+    "content": "जिन्दगी एउटा अनौठो यात्रा हो मित्र,\nजहाँ हिँड्दा हिँड्दै पाइलाहरू थाक्छन् तर मन थाक्दैन।\nसपनाहरू तुहिए पनि आशाहरू मर्दैनन्,\nआँधीहुरी पछि नै उज्यालो बिहानी मुस्कुराउँछ।",
+    "author": "रोशन अधिकारी",
+    "category": "motivation",
+    "type": "quote",
+    "language": "nepali",
+    "createdAt": "2026-10-26T09:15:00.000Z",
+    "likesCount": 58,
+    "copiedCount": 24,
+    "sharesCount": 17,
+    "reportsCount": 0,
+    "status": "published",
+    "isCommunityPost": true,
+    "tags": [
+      "हौसला",
+      "जीवन",
+      "प्रेरणा"
+    ]
+  },
+  {
+    "id": "comm-post-103",
+    "title": "परदेशीको वेदना",
+    "content": "गाउँको त्यो चौतारी अनि बा आमाको काख,\nयाद आउँछ परदेशमा मुटुमा च्यापी लाख।\nचाडपर्व आउँदा आँखाबाट बरबर आँसु झर्छ,\nपैसा कमाउने रहरले जिन्दगी नै रित्तो गर्छ।",
+    "author": "सुवास परदेशी",
+    "category": "sad",
+    "type": "muktak",
+    "language": "nepali",
+    "createdAt": "2026-10-27T18:45:00.000Z",
+    "likesCount": 89,
+    "copiedCount": 37,
+    "sharesCount": 29,
+    "reportsCount": 0,
+    "status": "published",
+    "isCommunityPost": true,
+    "tags": [
+      "परदेशी",
+      "दुःख",
+      "वेदना",
+      "गाउँघर"
+    ]
+  },
+  {
+    "id": "comm-post-104",
+    "title": "मखमली साँझ",
+    "content": "उदाउँदो जूनसँगै तिम्रो सम्झना आयो,\nसुस्तरी चल्ने हावाले मनको तार छेडिगयो।\nअमृत सम्झी पिएको त्यो मुस्कान तिम्रो,\nआज सम्झिँदा नयनबाट बरबर अश्रु बहायो।",
+    "author": "प्रकृति शर्मा",
+    "category": "ghazal",
+    "type": "ghazal",
+    "language": "nepali",
+    "createdAt": "2026-10-28T11:30:00.000Z",
+    "likesCount": 64,
+    "copiedCount": 21,
+    "sharesCount": 14,
+    "reportsCount": 0,
+    "status": "published",
+    "isCommunityPost": true,
+    "tags": [
+      "गजल",
+      "साँझ",
+      "प्रेम"
+    ]
+  },
+  {
+    "id": "comm-post-105",
+    "title": "माटोको सुगन्ध",
+    "content": "हिमालको काखमा फुल्ने लालीगुराँस जस्तै,\nमेरो देशको माया छ गंगाको जल जस्तै।\nसगरमाथाको शीर कहिल्यै झुक्न दिनेछैनौँ,\nनेपाली हौँ हामी, वीरताको इतिहास मेट्न दिनेछैनौँ।",
+    "author": "विवेक पोखरेल",
+    "category": "patriotic",
+    "type": "poem",
+    "language": "nepali",
+    "createdAt": "2026-10-28T16:10:00.000Z",
+    "likesCount": 112,
+    "copiedCount": 45,
+    "sharesCount": 38,
+    "reportsCount": 0,
+    "status": "published",
+    "isCommunityPost": true,
+    "tags": [
+      "देशभक्ति",
+      "नेपाल",
+      "सगरमाथा",
+      "लालीगुराँस"
+    ]
+  },
+  {
+    "id": "comm-post-106",
+    "title": "सच्चा साथी",
+    "content": "हजारौँको भीडमा एउटा हात समात्ने मान्छे चाहिन्छ,\nदुःख पर्दा नबोलाई पनि सँगै उभिने साथी चाहिन्छ।\nहाँस्दा सँगै हाँस्ने संसारै छ यहाँ,\nतर रोएको बेला आँसु पुछिदिने एउटा मित्र चाहिन्छ।",
+    "author": "अमित श्रेष्ठ",
+    "category": "friendship",
+    "type": "shayari",
+    "language": "nepali",
+    "createdAt": "2026-10-29T03:00:00.000Z",
+    "likesCount": 73,
+    "copiedCount": 32,
+    "sharesCount": 19,
+    "reportsCount": 0,
+    "status": "published",
+    "isCommunityPost": true,
+    "tags": [
+      "साथी",
+      "मित्रता",
+      "मित्र"
+    ]
+  }
+]

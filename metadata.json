@@ -1,0 +1,8 @@
+{
+  "name": "Man Ka Shabda - नेपाली शायरी",
+  "description": "Discover, create, favorite, and download authentic Nepali, Hindi, and English shayari, ghazals, muktak, poetry, and quotes with offline reading and beautiful image card generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

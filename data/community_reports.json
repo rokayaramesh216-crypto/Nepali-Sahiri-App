@@ -1,0 +1,29 @@
+[
+  {
+    "id": "rep-1793272826569-enck",
+    "postId": "comm-1793272826497-19yre",
+    "postTitle": "सपनाको देश",
+    "reason": "spam",
+    "details": "Simulated report test 3",
+    "reporterId": "reporter-user-3",
+    "timestamp": "2026-10-29T11:20:26.569Z"
+  },
+  {
+    "id": "rep-1793272826558-kyxm",
+    "postId": "comm-1793272826497-19yre",
+    "postTitle": "सपनाको देश",
+    "reason": "spam",
+    "details": "Simulated report test 2",
+    "reporterId": "reporter-user-2",
+    "timestamp": "2026-10-29T11:20:26.559Z"
+  },
+  {
+    "id": "rep-1793272826548-kieh",
+    "postId": "comm-1793272826497-19yre",
+    "postTitle": "सपनाको देश",
+    "reason": "spam",
+    "details": "Simulated report test 1",
+    "reporterId": "reporter-user-1",
+    "timestamp": "2026-10-29T11:20:26.548Z"
+  }
+]
